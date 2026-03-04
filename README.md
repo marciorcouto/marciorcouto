@@ -1,16 +1,65 @@
-## Hi there 👋
+## Hi 👋, Im Marcio Couto
 
-<!--
-**marciorcouto/marciorcouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+Me chamo Marcio Roberto Santiago Couto filho, tenho 29 anos e sou natural de Franca, São Paulo. Concluí o ensino médio na E.E João Marciano de Almeida, tambem concluí técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Educacional. Sou apaixonado por tecnologia e pretendo evoluir meus conhecimentos somando a facilitação da vida e experiencia dos usuarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  
+</p>
+
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+---
+
+## 🌐 Where to find me
+<p align="left">
+  <a href="https://github.com/marciorcouto">
+    <img src="https://img.shields.io/badge/GitHub-marciorcouto-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/marciorcouto">
+    <img src="https://img.shields.io/badge/Instagram-@marciorcouto-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
+
+<br/>
+<br/>
