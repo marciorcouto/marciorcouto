@@ -8,7 +8,17 @@ Me chamo Marcio Roberto Santiago Couto filho, tenho 29 anos e sou natural de Fra
   
 </p>
 
+## 📊 GitHub Stats
 
+<p align="left">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=marciorcouto&show_icons=true&theme=transparent" />
+  
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=marciorcouto&theme=transparent" />
+  
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marciorcouto&layout=compact&theme=transparent" />
+</p>
+
+---
 
 ---
 
