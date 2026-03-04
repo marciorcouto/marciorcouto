@@ -10,7 +10,6 @@ Me chamo Marcio Roberto Santiago Couto filho, tenho 29 anos e sou natural de Fra
 
 ---
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -73,7 +72,6 @@ Me chamo Marcio Roberto Santiago Couto filho, tenho 29 anos e sou natural de Fra
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marciorcouto&layout=compact&theme=transparent" />
 </p>
 
----
 
 <br/>
 <br/>
