@@ -1,22 +1,12 @@
-## Hi 👋, Im Marcio Couto
+## Oi 👋, Im Marcio Couto
 
-**`Desenvolvedor Front-End`**
+**`Estudante de Analise e Desenvolvimento de Sistemas`**
 
 Me chamo Marcio Roberto Santiago Couto filho, tenho 29 anos e sou natural de Franca, São Paulo. Concluí o ensino médio na E.E João Marciano de Almeida, tambem concluí técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Educacional. Sou apaixonado por tecnologia e pretendo evoluir meus conhecimentos somando a facilitação da vida e experiencia dos usuarios.
 
 <p align="left">
   
-</p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=marciorcouto&show_icons=true&theme=transparent" />
-  
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=marciorcouto&theme=transparent" />
-  
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marciorcouto&layout=compact&theme=transparent" />
-</p>
 
 ---
 
@@ -59,7 +49,7 @@ Me chamo Marcio Roberto Santiago Couto filho, tenho 29 anos e sou natural de Fra
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me Encontrar
 <p align="left">
   <a href="https://github.com/marciorcouto">
     <img src="https://img.shields.io/badge/GitHub-marciorcouto-181717?style=for-the-badge&logo=github" />
@@ -69,7 +59,21 @@ Me chamo Marcio Roberto Santiago Couto filho, tenho 29 anos e sou natural de Fra
   </a>
 </p>
 
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=marciorcouto&show_icons=true&theme=transparent" />
+  
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=marciorcouto&theme=transparent" />
+  
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marciorcouto&layout=compact&theme=transparent" />
+</p>
+
+---
 
 <br/>
 <br/>
